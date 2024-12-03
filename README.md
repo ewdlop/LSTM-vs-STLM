@@ -1,1 +1,1 @@
-# LSTM-vs-STLM
+# LTSM-vs-STLM
